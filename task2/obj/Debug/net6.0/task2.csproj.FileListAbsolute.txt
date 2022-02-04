@@ -1,0 +1,15 @@
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\bin\Debug\net6.0\task2.exe
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\bin\Debug\net6.0\task2.deps.json
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\bin\Debug\net6.0\task2.dll
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\bin\Debug\net6.0\ref\task2.dll
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\bin\Debug\net6.0\task2.pdb
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\obj\Debug\net6.0\task2.dll
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\obj\Debug\net6.0\ref\task2.dll
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\obj\Debug\net6.0\task2.pdb
+C:\Users\kostr\Desktop\Study C#\Homework_C\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
