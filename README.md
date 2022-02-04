@@ -1,2 +1,2 @@
-# Homework_C
+# Homework_C#
 Домашнее задание для GeekBrains
