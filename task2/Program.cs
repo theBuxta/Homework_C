@@ -1,4 +1,6 @@
 ﻿// Задача 2: Даны два числа. Показать большее и меньшее число
+using System;
+
 int a = int.Parse(Console.ReadLine());
 int b = int.Parse(Console.ReadLine());
 
