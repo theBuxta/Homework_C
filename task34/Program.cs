@@ -4,7 +4,7 @@ int [] arr = new int [12];
 
 for (int i=0; i< arr.Length; i++)
 {
-    arrey[i] = new Random().Next(-9, 10);
+    arr[i] = new Random().Next(-9, 10);
     System.Console.Write($"{arr[i]} ");
     arr[i] = arr[i]*(-1);
 }
